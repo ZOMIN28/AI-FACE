@@ -1,0 +1,2 @@
+conda install -c conda-forge dlib
+conda install -c huggingface safetensors
