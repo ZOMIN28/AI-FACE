@@ -1,7 +1,17 @@
 ## AI-FACE : Realistic, high-definition, fast, face editing <img src="images\mylogo.png"  style="zoom:67%;" />
 
+### 1 Visualization
 
-### 1 preparation
+ Different types of editing operations:
+
+<img src="images\fig4.png"  style="zoom:70%;" />
+
+Digital Human Generation:
+
+![vid1](images/vid1.gif)
+
+
+### 2 preparation
 
 ##### Environment
 
@@ -32,7 +42,7 @@ bash download.sh wing
 
 
 
-### 2 Usage
+### 3 Usage
 
 running `run.bat`.
 
@@ -45,7 +55,7 @@ manipulate(original_path, algorithm, dev, reference_path, reference)
 
 
 
-### 3 Advanced
+### 4 Advanced
 
 #### Super Resolution
 
@@ -58,18 +68,6 @@ In order to provide high-definition editing effects, a fast and efficient high-r
 Efficient model pruning and distillation strategies are used, such as [OMGD](https://github.com/bytedance/OMGD). This significantly reduces computational overhead and accelerates model generation.
 
 <img src="images\fig3.png"  style="zoom:50%;" />
-
-
-
-### 4 Visualization
-
- Different types of editing operations:
-
-<img src="images\fig4.png"  style="zoom:70%;" />
-
-Digital Human Generation:
-
-![vid1](images/vid1.gif)
 
 
 
