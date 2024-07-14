@@ -70,7 +70,7 @@ Efficient model pruning and distillation strategies are used, such as [OMGD](htt
 
 Digital Human Generation:
 
-![vid1](images\vid1.gif)
+![vid1](images/vid1.gif)
 
 
 
