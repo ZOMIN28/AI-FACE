@@ -1,6 +1,5 @@
 ## AI-FACE : Realistic, high-definition, fast, face editing <img src="images\mylogo.png"  style="zoom:67%;" />
 
-<img src="images\fig1.png"  style="zoom:67%;" />
 
 ### 1 preparation
 
