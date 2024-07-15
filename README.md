@@ -18,7 +18,7 @@ Digital Human Generation:
 Creating a `conda` environment named `AI_FACE`：
 
 ```
-conda create -n pytorch python=3.9
+conda create -n AI_FACE python=3.9
 ```
 
 Install the required dependency packages. Given in `requirements.txt.` and `req.txt`.
